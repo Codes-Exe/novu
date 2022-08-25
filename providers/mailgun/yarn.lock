@@ -5727,10 +5727,10 @@
   dependencies:
     "os-tmpdir" "~1.0.2"
 
-"tmpl@1.0.x":
+"tmpl@1.0.5":
   "integrity" "sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE="
   "resolved" "https://registry.npmjs.org/tmpl/-/tmpl-1.0.4.tgz"
-  "version" "1.0.4"
+  "version" "1.0.5"
 
 "to-fast-properties@^2.0.0":
   "integrity" "sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4="
