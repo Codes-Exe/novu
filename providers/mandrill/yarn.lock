@@ -4742,10 +4742,10 @@
   "resolved" "https://registry.npmjs.org/shell-quote/-/shell-quote-1.7.2.tgz"
   "version" "1.7.2"
 
-"shelljs@^0.8.4":
+"shelljs@^0.8.5":
   "integrity" "sha512-7gk3UZ9kOfPLIAbslLzyWeGiEqx9e3rxwZM0KE6EL8GlGwjym9Mrlx5/p33bWTu9YG6vcS4MBxYZDHYr5lr8BQ=="
   "resolved" "https://registry.npmjs.org/shelljs/-/shelljs-0.8.4.tgz"
-  "version" "0.8.4"
+  "version" "0.8.5"
   dependencies:
     "glob" "^7.0.0"
     "interpret" "^1.0.0"
@@ -5331,7 +5331,7 @@
     "minimatch" "^3.0.0"
     "progress" "^2.0.3"
     "semver" "^7.3.2"
-    "shelljs" "^0.8.4"
+    "shelljs" "^0.8.5"
     "typedoc-default-themes" "^0.11.4"
 
 "typescript@>=2.7", "typescript@>=3.8 <5.0", "typescript@3.9.x || 4.0.x":
