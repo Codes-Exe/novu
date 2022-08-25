@@ -4252,7 +4252,7 @@
 "marked@^4.0.10":
   "integrity" "sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw=="
   "resolved" "https://registry.npmjs.org/marked/-/marked-1.2.9.tgz"
-  "version" "1.2.9"
+  "version" "4.0.10"
 
 "memorystream@^0.3.1":
   "integrity" "sha1-htcJCzDORV1j+64S3aUaR93K+bI="
