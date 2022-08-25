@@ -43004,7 +43004,7 @@ packages:
       highlight.js: 10.7.3
       lodash: 4.17.21
       lunr: 2.3.9
-      marked: 1.2.9
+      marked: 4.0.10
       minimatch: 3.1.2
       progress: 2.0.3
       semver: 7.3.5

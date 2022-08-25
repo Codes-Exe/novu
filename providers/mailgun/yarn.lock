@@ -4249,7 +4249,7 @@
   "resolved" "https://registry.npmjs.org/map-obj/-/map-obj-4.2.1.tgz"
   "version" "4.2.1"
 
-"marked@^1.1.1":
+"marked@^4.0.10":
   "integrity" "sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw=="
   "resolved" "https://registry.npmjs.org/marked/-/marked-1.2.9.tgz"
   "version" "1.2.9"
@@ -5919,7 +5919,7 @@
     "highlight.js" "^10.2.0"
     "lodash" "^4.17.20"
     "lunr" "^2.3.9"
-    "marked" "^1.1.1"
+    "marked" "^4.0.10"
     "minimatch" "^3.0.0"
     "progress" "^2.0.3"
     "semver" "^7.3.2"
