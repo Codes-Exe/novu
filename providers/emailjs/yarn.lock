@@ -5179,8 +5179,8 @@ tmp@^0.0.33:
   dependencies:
     os-tmpdir "~1.0.2"
 
-tmpl@1.0.x:
-  version "1.0.4"
+tmpl@1.0.5:
+  version "1.0.5"
   resolved "https://registry.npmjs.org/tmpl/-/tmpl-1.0.4.tgz"
   integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
 
