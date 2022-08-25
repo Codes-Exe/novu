@@ -1808,7 +1808,7 @@
     "meow" "^8.0.0"
     "split2" "^3.0.0"
     "through2" "^4.0.0"
-    "trim-off-newlines" "^1.0.0"
+    "trim-off-newlines" "^1.0.3"
 
 "conventional-recommended-bump@6.1.0":
   "integrity" "sha512-uiApbSiNGM/kkdL9GTOLAqC4hbptObFo4wW2QRyHsKciGAfQuLU1ShZ1BIVI/+K2BE/W1AWYQMCXAsv4dyKPaw=="
@@ -5773,10 +5773,10 @@
   "resolved" "https://registry.npmjs.org/trim-newlines/-/trim-newlines-3.0.1.tgz"
   "version" "3.0.1"
 
-"trim-off-newlines@^1.0.0":
+"trim-off-newlines@^1.0.3":
   "integrity" "sha1-n5up2e+odkw4dpi8v+sshI8RrbM="
   "resolved" "https://registry.npmjs.org/trim-off-newlines/-/trim-off-newlines-1.0.1.tgz"
-  "version" "1.0.1"
+  "version" "1.0.3"
 
 "trim-repeated@^1.0.0":
   "integrity" "sha1-42RqLqTokTEr9+rObPsFOAvAHCE="
