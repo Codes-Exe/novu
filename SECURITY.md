@@ -14,4 +14,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
+When you fork your repository, the first thing you should do to see security vulnerabilities is to enable dependabot warnings.
+
 www.bounty.github.com
