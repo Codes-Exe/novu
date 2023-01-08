@@ -4245,7 +4245,7 @@ open-cli@^6.0.1:
   resolved "https://registry.npmjs.org/open-cli/-/open-cli-6.0.1.tgz"
   integrity sha512-A5h8MF3GrT1efn9TiO9LPajDnLtuEiGQT5G8TxWObBlgt1cZJF1YbQo/kNtsD1bJb7HxnT6SaSjzeLq0Rfhygw==
   dependencies:
-    file-type "^14.1.4"
+    file-type "^16.5.4"
     get-stdin "^7.0.0"
     meow "^6.1.0"
     open "^7.0.3"
